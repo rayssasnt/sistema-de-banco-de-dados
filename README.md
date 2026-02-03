@@ -2,7 +2,7 @@
 
 ## 🎯 Visão geral
 
-O **Sistema com Banco de Dados** é um projeto que  em Java , servindo como base para sistemas de cadastro e gerenciamento de informações. 
+O **Sistema com Banco de Dados** é um projeto em Java , servindo como base para sistemas de cadastro e gerenciamento de informações. 
 
 Esse projeto foi desenvolvido como exercício prático 
 ## 🧰 Tecnologias
